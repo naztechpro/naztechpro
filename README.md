@@ -6,12 +6,12 @@ I am an IT student specializing in the **Internet of Things (IoT)**. I love work
 
 ---
 
-### 🛠️ My Tech Stack & Skills
+###  My Tech Stack & Skills
 - **IoT & Embedded Systems:** Raspberry Pi, Arduino, ESP32, UWB (Ultra-Wideband) Technology.
 - **Programming Languages:** Python, C/C++
 - **Others:**  Circuit Design, Sensor Integration, Git & GitHub.
 
-### 🔭 What I'm Currently Working On
+###  What I'm Currently Working On
 - **[raspiBot-UWB](https://github.com/naztechpro/raspiBot-UWB):** Developing an autonomous/remote-controlled robot focused on precision positioning using UWB technology.
 - 🇫🇮 **Language Journey:** Actively learning **Finnish (Suomi)** to integrate and grow within the Finnish tech ecosystem.
 - 📐 **Mathematics:** Deepening my knowledge in **Advanced Calculus** for better control systems and robotics logic.
